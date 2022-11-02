@@ -44,7 +44,7 @@ body{
     visibility: hidden;
 }
 
-#galeria-de-produtos{
+#div-galeria{
     display: flex;
     flex-direction: row;
 }
