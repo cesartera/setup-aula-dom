@@ -126,3 +126,31 @@ function exibirProdutos () {
 
     }
 }
+
+
+
+//Exemplo para exercício de cadastro de aluno
+const alunos = [
+    {
+        nome: 'Jhon',
+        sobrenome: 'Doe',
+        email: 'johndoe@gmail.com',
+        turma: '5a',
+        senha: '123',
+    },
+    {
+        nome: 'Jhon',
+        sobrenome: 'Doe',
+        email: 'johndoe@gmail.com',
+        turma: '5a',
+        senha: '123',
+    },
+    {
+        nome: 'Jhon',
+        sobrenome: 'Doe',
+        email: 'johndoe@gmail.com',
+        turma: '5a',
+        senha: '123',
+    }
+];
+
